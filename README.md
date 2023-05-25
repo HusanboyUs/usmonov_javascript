@@ -8,6 +8,9 @@ git@github.com:HusanboyUs/usmonov_javascript.git
 
 ## Install Node.js or packages if want to run node mode on console:
 
+```
+npm install prompt-sync
+```
 
 ## Run the main Task file:
 
